@@ -1,0 +1,22 @@
+
+H	java:S106˜"+Replace this use of System.err by a logger.(›É½Ò8Òí¡Žê1
+v
+java:S3776›"SRefactor this method to reduce its Cognitive Complexity from 103 to the 15 allowed.(¶á³¯úÿÿÿÿ8çÔ¢Žê1
+{
+java:S3923Ü"]This conditional operation returns the same value whether the condition is "true" or "false".(í¢üª8ôÔ¢Žê1
+M	java:S106á"+Replace this use of System.out by a logger.(–í˜Žúÿÿÿÿ8öÔ¢Žê1
+H	java:S106æ"+Replace this use of System.out by a logger.(×•œ²8ùí¡Žê1
+G	java:S106ë"+Replace this use of System.out by a logger.(ø‡÷$8õí¡Žê1
+M	java:S106í"+Replace this use of System.out by a logger.(çÉŠÏþÿÿÿÿ8öí¡Žê1
+€
+java:S3923í"]This conditional operation returns the same value whether the condition is "true" or "false".(çÉŠÏþÿÿÿÿ8üÔ¢Žê1
+M	java:S106ï"+Replace this use of System.out by a logger.(‹ù¶ãøÿÿÿÿ8ýÔ¢Žê1
+M	java:S106ó"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ýÔ¢Žê1
+H	java:S106€"+Replace this use of System.out by a logger.(×•œ²8€Õ¢Žê1
+M	java:S106‚"+Replace this use of System.out by a logger.(„˜ð®ÿÿÿÿÿ8ûí¡Žê1
+H	java:S106„"+Replace this use of System.out by a logger.(×•œ²8‚Õ¢Žê1
+M	java:S106‡"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ƒÕ¢Žê1
+Y
+java:S1144þ"6Remove this unused private "insertionIterator" method.(š‹òåÿÿÿÿÿ8†Õ¢Žê1
+é
+java:S6541›"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 87 to 64, Complexity from 28 to 14, Nesting Level from 6 to 2, Number of Variables from 24 to 6.(¶á³¯úÿÿÿÿ8†Õ¢Žê1
